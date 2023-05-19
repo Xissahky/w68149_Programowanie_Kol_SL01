@@ -1,0 +1,3 @@
+git push -- to faktycznie aktualizacja zdalnego reposytoria, plikami z lokalnego
+
+git status -- pokazuje stan lokalnego repozytoria, naprzyklad zmienione pliki, branch w jakim pracuje użytkownik, faktycznie git status pokaże wszystkie zmiany lokalnego repozytoria po ostatnim push-e
